@@ -44,7 +44,7 @@
 ### 🌐 Connect With Me
 
 <p>
-  <a href="www.linkedin.com/in/jatin-raikwar-4b40b536b/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/jatin-raikwar2006"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:raijatin2006@gmail.com"><img src="https://img.shields.io/badge/Email-raijatin2006@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
